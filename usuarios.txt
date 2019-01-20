@@ -1,0 +1,8 @@
+Vicente:123:721367813:normal
+Pelila:123:200:normal
+Juan:123:800:admin
+Paco:123:100:normal
+Marc:123:100:normal
+David:123:100:normal
+Xinlu:123:100:normal
+Hola:123:100:normal
